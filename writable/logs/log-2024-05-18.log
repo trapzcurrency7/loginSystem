@@ -1,0 +1,907 @@
+CRITICAL - 2024-05-18 13:56:36 --> ErrorException: include_once(include.php): Failed to open stream: No such file or directory
+[Method: GET, Route: /]
+in APPPATH\Views\login.php on line 1.
+ 1 APPPATH\Views\login.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include_once(include.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php', 1)
+ 2 APPPATH\Views\login.php(1): include_once()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login', [], true)
+ 6 APPPATH\Controllers\Home.php(11): view('login')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->loginPage()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 13:56:44 --> ErrorException: include_once(include.php): Failed to open stream: No such file or directory
+[Method: GET, Route: /]
+in APPPATH\Views\login.php on line 1.
+ 1 APPPATH\Views\login.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include_once(include.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php', 1)
+ 2 APPPATH\Views\login.php(1): include_once()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login', [], true)
+ 6 APPPATH\Controllers\Home.php(11): view('login')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->loginPage()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 13:56:44 --> ErrorException: include_once(include.php): Failed to open stream: No such file or directory
+[Method: GET, Route: /]
+in APPPATH\Views\login.php on line 1.
+ 1 APPPATH\Views\login.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include_once(include.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php', 1)
+ 2 APPPATH\Views\login.php(1): include_once()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login', [], true)
+ 6 APPPATH\Controllers\Home.php(11): view('login')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->loginPage()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 13:56:45 --> ErrorException: include_once(include.php): Failed to open stream: No such file or directory
+[Method: GET, Route: /]
+in APPPATH\Views\login.php on line 1.
+ 1 APPPATH\Views\login.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include_once(include.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php', 1)
+ 2 APPPATH\Views\login.php(1): include_once()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login', [], true)
+ 6 APPPATH\Controllers\Home.php(11): view('login')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->loginPage()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 13:56:53 --> ErrorException: include(include.php): Failed to open stream: No such file or directory
+[Method: GET, Route: /]
+in APPPATH\Views\login.php on line 1.
+ 1 APPPATH\Views\login.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(include.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php', 1)
+ 2 APPPATH\Views\login.php(1): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login', [], true)
+ 6 APPPATH\Controllers\Home.php(11): view('login')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->loginPage()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 14:09:26 --> ErrorException: Array to string conversion
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\Home.php on line 24.
+ 1 APPPATH\Controllers\Home.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\testPagination\\app\\Controllers\\Home.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 14:12:42 --> ErrorException: Constant expression contains invalid operations
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-18 14:13:10 --> ErrorException: Constant expression contains invalid operations
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-18 14:13:18 --> ErrorException: Constant expression contains invalid operations
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-18 14:13:27 --> ErrorException: Constant expression contains invalid operations
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-18 14:13:30 --> ErrorException: Constant expression contains invalid operations
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-18 14:13:31 --> ErrorException: Constant expression contains invalid operations
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-18 14:14:05 --> ErrorException: Constant expression contains invalid operations
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-18 14:14:11 --> ErrorException: Constant expression contains invalid operations
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-18 14:14:29 --> ErrorException: Constant expression contains invalid operations
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-18 14:19:50 --> ErrorException: Constant expression contains invalid operations
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-18 14:20:16 --> ErrorException: Constant expression contains invalid operations
+[Method: GET, Route: /]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-18 14:20:42 --> CodeIgniter\Encryption\Exceptions\EncryptionException: Encrypter needs a starter key.
+[Method: POST, Route: registerUser]
+in SYSTEMPATH\Encryption\Encryption.php on line 128.
+ 1 SYSTEMPATH\Encryption\Encryption.php(128): CodeIgniter\Encryption\Exceptions\EncryptionException::forNeedsStarterKey()
+ 2 SYSTEMPATH\Config\Services.php(254): CodeIgniter\Encryption\Encryption->initialize(Object(Config\Encryption))
+ 3 SYSTEMPATH\Config\BaseService.php(320): CodeIgniter\Config\Services::encrypter()
+ 4 APPPATH\Controllers\Home.php(15): CodeIgniter\Config\BaseService::__callStatic('encrypter', [])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 15:55:15 --> CodeIgniter\Encryption\Exceptions\EncryptionException: Encrypter needs a starter key.
+[Method: POST, Route: registerUser]
+in SYSTEMPATH\Encryption\Encryption.php on line 128.
+ 1 SYSTEMPATH\Encryption\Encryption.php(128): CodeIgniter\Encryption\Exceptions\EncryptionException::forNeedsStarterKey()
+ 2 SYSTEMPATH\Config\Services.php(254): CodeIgniter\Encryption\Encryption->initialize(Object(Config\Encryption))
+ 3 SYSTEMPATH\Config\BaseService.php(320): CodeIgniter\Config\Services::encrypter()
+ 4 APPPATH\Controllers\Home.php(15): CodeIgniter\Config\BaseService::__callStatic('encrypter', [])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:04:04 --> Error: Call to undefined method App\Controllers\Home::encrypter()
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\Home.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:04:55 --> ErrorException: Undefined property: App\Controllers\Home::$encrypter
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\Home.php on line 15.
+ 1 APPPATH\Controllers\Home.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Home::$encrypter', 'C:\\xampp\\htdocs\\testPagination\\app\\Controllers\\Home.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:05:29 --> Error: Cannot call constructor
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\BaseController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:05:43 --> Error: Cannot call constructor
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\BaseController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:06:43 --> Error: Cannot call constructor
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\BaseController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:06:55 --> ParseError: syntax error, unexpected token "{"
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\CheckBaseController.php on line 12.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\testPagination\\app\\Controllers\\CheckBaseController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\CheckBaseController')
+ 3 APPPATH\Controllers\Home.php(5): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\CheckBaseController')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once('C:\\xampp\\htdocs\\testPagination\\app\\Controllers\\Home.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\testPagination\\app\\Controllers\\Home.php')
+ 6 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 7 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 8 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 9 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:07:15 --> Error: Cannot call constructor
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\CheckBaseController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\CheckBaseController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:07:42 --> Error: Cannot call constructor
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\CheckBaseController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\CheckBaseController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:08:12 --> Error: Cannot call constructor
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\CheckBaseController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\CheckBaseController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:09:13 --> Error: Cannot call constructor
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\CheckBaseController.php on line 15.
+ 1 APPPATH\Controllers\Home.php(11): App\Controllers\CheckBaseController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:09:28 --> Error: Cannot call constructor
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 APPPATH\Controllers\Home.php(11): App\Controllers\BaseController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:09:54 --> Error: Cannot call constructor
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 APPPATH\Controllers\Home.php(11): App\Controllers\BaseController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:10:29 --> Error: Cannot call constructor
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 APPPATH\Controllers\Home.php(11): App\Controllers\BaseController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:10:44 --> ParseError: syntax error, unexpected variable "$config", expecting "function" or "const"
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\Home.php on line 9.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\testPagination\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:10:51 --> ParseError: syntax error, unexpected variable "$config", expecting "function" or "const"
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\Home.php on line 9.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\testPagination\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:12:18 --> Error: Cannot call constructor
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\BaseController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\BaseController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:20:54 --> Error: Cannot use object of type stdClass as array
+[Method: POST, Route: registerUser]
+in APPPATH\Controllers\Home.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-05-18 16:22:00 --> mysqli_sql_exception: Duplicate entry 'ganup9199@gmail.com' for key 'user_name' in C:\xampp\htdocs\testPagination\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\testPagination\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\testPagination\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\testPagination\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\testPagination\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\testPagination\app\Models\HomeModel.php(10): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\testPagination\app\Controllers\Home.php(40): App\Models\HomeModel->registerUser(Array)
+#6 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+#7 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\testPagination\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\testPagination\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\testPagination\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-05-18 16:22:00 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'ganup9199@gmail.com' for key 'user_name'
+[Method: POST, Route: registerUser]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (:user_name:, :user_email:, :password:)', [...], false)
+ 2 APPPATH\Models\HomeModel.php(10): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(40): App\Models\HomeModel->registerUser([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:22:00 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'ganup9199@gmail.com' for key 'user_name'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (\'ganup9199@gmail.com\', \'ds\', \'_£Qx‡ÙLîÏü y»&‡|ä(/î.Öà6gÄ­ÐEgó4©cªÒZHÛlƒ•àjª#åUj—fV´6oíþ(,Û¹k¼xý˜\\\'Ù+«Œ\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (\'ganup9199@gmail.com\', \'ds\', \'_£Qx‡ÙLîÏü y»&‡|ä(/î.Öà6gÄ­ÐEgó4©cªÒZHÛlƒ•àjª#åUj—fV´6oíþ(,Û¹k¼xý˜\\\'Ù+«Œ\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (:user_name:, :user_email:, :password:)', [...], false)
+ 4 APPPATH\Models\HomeModel.php(10): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(40): App\Models\HomeModel->registerUser([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:22:00 --> [Caused by] mysqli_sql_exception: Duplicate entry 'ganup9199@gmail.com' for key 'user_name'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (\'ganup9199@gmail.com\', \'ds\', \'_£Qx‡ÙLîÏü y»&‡|ä(/î.Öà6gÄ­ÐEgó4©cªÒZHÛlƒ•àjª#åUj—fV´6oíþ(,Û¹k¼xý˜\\\'Ù+«Œ\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (\'ganup9199@gmail.com\', \'ds\', \'_£Qx‡ÙLîÏü y»&‡|ä(/î.Öà6gÄ­ÐEgó4©cªÒZHÛlƒ•àjª#åUj—fV´6oíþ(,Û¹k¼xý˜\\\'Ù+«Œ\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (\'ganup9199@gmail.com\', \'ds\', \'_£Qx‡ÙLîÏü y»&‡|ä(/î.Öà6gÄ­ÐEgó4©cªÒZHÛlƒ•àjª#åUj—fV´6oíþ(,Û¹k¼xý˜\\\'Ù+«Œ\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (:user_name:, :user_email:, :password:)', [...], false)
+ 5 APPPATH\Models\HomeModel.php(10): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(40): App\Models\HomeModel->registerUser([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:22:00 --> ErrorException: Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded in C:\xampp\htdocs\testPagination\system\Format\JSONFormatter.php:45
+Stack trace:
+#0 C:\xampp\htdocs\testPagination\system\Format\JSONFormatter.php(45): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8...')
+#1 C:\xampp\htdocs\testPagination\system\API\ResponseTrait.php(357): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 C:\xampp\htdocs\testPagination\system\API\ResponseTrait.php(103): CodeIgniter\Debug\ExceptionHandler->format(Array)
+#3 C:\xampp\htdocs\testPagination\system\Debug\ExceptionHandler.php(83): CodeIgniter\Debug\ExceptionHandler->respond(Array, 500)
+#4 C:\xampp\htdocs\testPagination\system\Debug\Exceptions.php(163): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Database\Exceptions\DatabaseException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 8)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Database\Exceptions\DatabaseException))
+#6 {main}
+  thrown
+ã€Previous Exceptionã€‘
+CodeIgniter\Database\Exceptions\DatabaseException
+Duplicate entry 'ganup9199@gmail.com' for key 'user_name'
+#0 C:\xampp\htdocs\testPagination\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#1 C:\xampp\htdocs\testPagination\app\Models\HomeModel.php(10): CodeIgniter\Database\BaseBuilder->insert(Array)
+#2 C:\xampp\htdocs\testPagination\app\Controllers\Home.php(40): App\Models\HomeModel->registerUser(Array)
+#3 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+#4 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\testPagination\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\testPagination\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#8 C:\xampp\htdocs\testPagination\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#9 {main}
+[Method: POST, Route: registerUser]
+in SYSTEMPATH\Format\JSONFormatter.php on line 45.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-18 16:32:02 --> ErrorException: Undefined array key "username"
+[Method: POST, Route: registerUser]
+in APPPATH\Models\HomeModel.php on line 22.
+ 1 APPPATH\Models\HomeModel.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\testPagination\\app\\Models\\HomeModel.php', 22)
+ 2 APPPATH\Controllers\Home.php(35): App\Models\HomeModel->userExistCheck([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:32:02 --> ErrorException: Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded in C:\xampp\htdocs\testPagination\system\Format\JSONFormatter.php:45
+Stack trace:
+#0 C:\xampp\htdocs\testPagination\system\Format\JSONFormatter.php(45): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8...')
+#1 C:\xampp\htdocs\testPagination\system\API\ResponseTrait.php(357): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 C:\xampp\htdocs\testPagination\system\API\ResponseTrait.php(103): CodeIgniter\Debug\ExceptionHandler->format(Array)
+#3 C:\xampp\htdocs\testPagination\system\Debug\ExceptionHandler.php(83): CodeIgniter\Debug\ExceptionHandler->respond(Array, 500)
+#4 C:\xampp\htdocs\testPagination\system\Debug\Exceptions.php(163): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#6 {main}
+  thrown
+ã€Previous Exceptionã€‘
+ErrorException
+Undefined array key "username"
+#0 C:\xampp\htdocs\testPagination\app\Models\HomeModel.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 22)
+#1 C:\xampp\htdocs\testPagination\app\Controllers\Home.php(35): App\Models\HomeModel->userExistCheck(Array)
+#2 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+#3 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testPagination\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\testPagination\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#7 C:\xampp\htdocs\testPagination\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#8 {main}
+[Method: POST, Route: registerUser]
+in SYSTEMPATH\Format\JSONFormatter.php on line 45.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-18 16:32:19 --> ErrorException: Undefined array key "username"
+[Method: POST, Route: registerUser]
+in APPPATH\Models\HomeModel.php on line 22.
+ 1 APPPATH\Models\HomeModel.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\testPagination\\app\\Models\\HomeModel.php', 22)
+ 2 APPPATH\Controllers\Home.php(35): App\Models\HomeModel->userExistCheck([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:32:19 --> ErrorException: Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded in C:\xampp\htdocs\testPagination\system\Format\JSONFormatter.php:45
+Stack trace:
+#0 C:\xampp\htdocs\testPagination\system\Format\JSONFormatter.php(45): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8...')
+#1 C:\xampp\htdocs\testPagination\system\API\ResponseTrait.php(357): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 C:\xampp\htdocs\testPagination\system\API\ResponseTrait.php(103): CodeIgniter\Debug\ExceptionHandler->format(Array)
+#3 C:\xampp\htdocs\testPagination\system\Debug\ExceptionHandler.php(83): CodeIgniter\Debug\ExceptionHandler->respond(Array, 500)
+#4 C:\xampp\htdocs\testPagination\system\Debug\Exceptions.php(163): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#6 {main}
+  thrown
+ã€Previous Exceptionã€‘
+ErrorException
+Undefined array key "username"
+#0 C:\xampp\htdocs\testPagination\app\Models\HomeModel.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 22)
+#1 C:\xampp\htdocs\testPagination\app\Controllers\Home.php(35): App\Models\HomeModel->userExistCheck(Array)
+#2 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+#3 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testPagination\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\testPagination\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#7 C:\xampp\htdocs\testPagination\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#8 {main}
+[Method: POST, Route: registerUser]
+in SYSTEMPATH\Format\JSONFormatter.php on line 45.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-18 16:35:59 --> ErrorException: unlink(C:\xampp\htdocs\testPagination\writable\debugbar/debugbar_1716041038.808533.json): No such file or directory
+[Method: GET, Route: /]
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 82.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp\\htdocs\\testPagination\\writable\\debugbar/debugbar_1716041038.808533.json): No such file or directory', 'C:\\xampp\\htdocs\\testPagination\\system\\Debug\\Toolbar\\Collectors\\History.php', 82)
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(82): unlink('C:\\xampp\\htdocs\\testPagination\\writable\\debugbar/debugbar_1716041038.808533.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(518): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1716050158.820163', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(497): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-05-18 16:40:02 --> mysqli_sql_exception: Duplicate entry 'ganup9199@gmail.com' for key 'user_name' in C:\xampp\htdocs\testPagination\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\testPagination\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\testPagination\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\testPagination\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\testPagination\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\testPagination\app\Models\HomeModel.php(10): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\testPagination\app\Controllers\Home.php(41): App\Models\HomeModel->registerUser(Array)
+#6 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+#7 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\testPagination\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\testPagination\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\testPagination\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-05-18 16:40:02 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'ganup9199@gmail.com' for key 'user_name'
+[Method: POST, Route: registerUser]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (:user_name:, :user_email:, :password:)', [...], false)
+ 2 APPPATH\Models\HomeModel.php(10): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(41): App\Models\HomeModel->registerUser([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:40:02 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'ganup9199@gmail.com' for key 'user_name'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (\'ganup9199@gmail.com\', \'sddas\', \'„¤ßïò©þÄ·ÁÛ¤«!ùê5™{ö/\\\'Þè™]HÑØh×ëÈÍ´FÂƒÐÂ\\n „`ë|õ@ëvh”éYv®^cÖWà>\\n«L\\ZÍ°µa‹^Hºù\\n\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (\'ganup9199@gmail.com\', \'sddas\', \'„¤ßïò©þÄ·ÁÛ¤«!ùê5™{ö/\\\'Þè™]HÑØh×ëÈÍ´FÂƒÐÂ\\n „`ë|õ@ëvh”éYv®^cÖWà>\\n«L\\ZÍ°µa‹^Hºù\\n\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (:user_name:, :user_email:, :password:)', [...], false)
+ 4 APPPATH\Models\HomeModel.php(10): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Home.php(41): App\Models\HomeModel->registerUser([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:40:02 --> [Caused by] mysqli_sql_exception: Duplicate entry 'ganup9199@gmail.com' for key 'user_name'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (\'ganup9199@gmail.com\', \'sddas\', \'„¤ßïò©þÄ·ÁÛ¤«!ùê5™{ö/\\\'Þè™]HÑØh×ëÈÍ´FÂƒÐÂ\\n „`ë|õ@ëvh”éYv®^cÖWà>\\n«L\\ZÍ°µa‹^Hºù\\n\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (\'ganup9199@gmail.com\', \'sddas\', \'„¤ßïò©þÄ·ÁÛ¤«!ùê5™{ö/\\\'Þè™]HÑØh×ëÈÍ´FÂƒÐÂ\\n „`ë|õ@ëvh”éYv®^cÖWà>\\n«L\\ZÍ°µa‹^Hºù\\n\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (\'ganup9199@gmail.com\', \'sddas\', \'„¤ßïò©þÄ·ÁÛ¤«!ùê5™{ö/\\\'Þè™]HÑØh×ëÈÍ´FÂƒÐÂ\\n „`ë|õ@ëvh”éYv®^cÖWà>\\n«L\\ZÍ°µa‹^Hºù\\n\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user_name`, `user_email`, `password`) VALUES (:user_name:, :user_email:, :password:)', [...], false)
+ 5 APPPATH\Models\HomeModel.php(10): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(41): App\Models\HomeModel->registerUser([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 16:40:02 --> ErrorException: Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded in C:\xampp\htdocs\testPagination\system\Format\JSONFormatter.php:45
+Stack trace:
+#0 C:\xampp\htdocs\testPagination\system\Format\JSONFormatter.php(45): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8...')
+#1 C:\xampp\htdocs\testPagination\system\API\ResponseTrait.php(357): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 C:\xampp\htdocs\testPagination\system\API\ResponseTrait.php(103): CodeIgniter\Debug\ExceptionHandler->format(Array)
+#3 C:\xampp\htdocs\testPagination\system\Debug\ExceptionHandler.php(83): CodeIgniter\Debug\ExceptionHandler->respond(Array, 500)
+#4 C:\xampp\htdocs\testPagination\system\Debug\Exceptions.php(163): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Database\Exceptions\DatabaseException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 8)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Database\Exceptions\DatabaseException))
+#6 {main}
+  thrown
+ã€Previous Exceptionã€‘
+CodeIgniter\Database\Exceptions\DatabaseException
+Duplicate entry 'ganup9199@gmail.com' for key 'user_name'
+#0 C:\xampp\htdocs\testPagination\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#1 C:\xampp\htdocs\testPagination\app\Models\HomeModel.php(10): CodeIgniter\Database\BaseBuilder->insert(Array)
+#2 C:\xampp\htdocs\testPagination\app\Controllers\Home.php(41): App\Models\HomeModel->registerUser(Array)
+#3 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(933): App\Controllers\Home->registerUser()
+#4 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\testPagination\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\testPagination\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#8 C:\xampp\htdocs\testPagination\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#9 {main}
+[Method: POST, Route: registerUser]
+in SYSTEMPATH\Format\JSONFormatter.php on line 45.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-18 17:48:01 --> ErrorException: Undefined array key "username"
+[Method: GET, Route: login]
+in APPPATH\Controllers\Home.php on line 63.
+ 1 APPPATH\Controllers\Home.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\testPagination\\app\\Controllers\\Home.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 17:48:47 --> ErrorException: Undefined array key "username"
+[Method: GET, Route: login]
+in APPPATH\Controllers\Home.php on line 63.
+ 1 APPPATH\Controllers\Home.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\testPagination\\app\\Controllers\\Home.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 17:48:47 --> ErrorException: Undefined array key "username"
+[Method: GET, Route: login]
+in APPPATH\Controllers\Home.php on line 63.
+ 1 APPPATH\Controllers\Home.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\testPagination\\app\\Controllers\\Home.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:00:28 --> TypeError: CodeIgniter\Validation\Validation::withRequest(): Argument #1 ($request) must be of type CodeIgniter\HTTP\RequestInterface, array given, called in C:\xampp\htdocs\testPagination\app\Controllers\Home.php on line 75
+[Method: POST, Route: login]
+in SYSTEMPATH\Validation\Validation.php on line 503.
+ 1 APPPATH\Controllers\Home.php(75): CodeIgniter\Validation\Validation->withRequest([...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:01:03 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::login(), 0 passed in C:\xampp\htdocs\testPagination\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: POST, Route: login]
+in APPPATH\Controllers\Home.php on line 60.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:03:08 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::login(), 0 passed in C:\xampp\htdocs\testPagination\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: POST, Route: login]
+in APPPATH\Controllers\Home.php on line 61.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:05:49 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::login(), 0 passed in C:\xampp\htdocs\testPagination\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: POST, Route: login]
+in APPPATH\Controllers\Home.php on line 61.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:06:07 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::login(), 0 passed in C:\xampp\htdocs\testPagination\system\CodeIgniter.php on line 933 and at least 1 expected
+[Method: POST, Route: login]
+in APPPATH\Controllers\Home.php on line 61.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:06:17 --> TypeError: CodeIgniter\Validation\Validation::withRequest(): Argument #1 ($request) must be of type CodeIgniter\HTTP\RequestInterface, array given, called in C:\xampp\htdocs\testPagination\app\Controllers\Home.php on line 76
+[Method: POST, Route: login]
+in SYSTEMPATH\Validation\Validation.php on line 503.
+ 1 APPPATH\Controllers\Home.php(76): CodeIgniter\Validation\Validation->withRequest([...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:07:24 --> Error: Class "Config\RequestInterface" not found
+[Method: POST, Route: login]
+in APPPATH\Controllers\Home.php on line 65.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:08:06 --> Error: Cannot instantiate interface CodeIgniter\HTTP\RequestInterface
+[Method: POST, Route: login]
+in APPPATH\Controllers\Home.php on line 65.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:08:19 --> Error: Cannot instantiate interface CodeIgniter\HTTP\RequestInterface
+[Method: POST, Route: login]
+in APPPATH\Controllers\Home.php on line 65.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:09:22 --> TypeError: CodeIgniter\Validation\Validation::withRequest(): Argument #1 ($request) must be of type CodeIgniter\HTTP\RequestInterface, array given, called in C:\xampp\htdocs\testPagination\app\Controllers\Home.php on line 77
+[Method: POST, Route: login]
+in SYSTEMPATH\Validation\Validation.php on line 503.
+ 1 APPPATH\Controllers\Home.php(77): CodeIgniter\Validation\Validation->withRequest([...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:10:23 --> Error: Call to undefined method App\Controllers\Home::request()
+[Method: POST, Route: login]
+in APPPATH\Controllers\Home.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:11:01 --> ParseError: syntax error, unexpected token "}"
+[Method: POST, Route: login]
+in APPPATH\Controllers\Home.php on line 81.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\testPagination\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:13:27 --> ErrorException: Undefined variable $validation
+[Method: POST, Route: login]
+in APPPATH\Views\login.php on line 1.
+ 1 APPPATH\Views\login.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php', 1)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(83): view('login')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:13:50 --> ErrorException: Undefined variable $validation
+[Method: POST, Route: login]
+in APPPATH\Views\login.php on line 1.
+ 1 APPPATH\Views\login.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php', 1)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(83): view('login')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:20:05 --> ErrorException: Undefined array key "password"
+[Method: GET, Route: login]
+in APPPATH\Views\login.php on line 38.
+ 1 APPPATH\Views\login.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "password"', 'C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php', 38)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(83): view('login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:20:06 --> ErrorException: Undefined array key "password"
+[Method: GET, Route: login]
+in APPPATH\Views\login.php on line 38.
+ 1 APPPATH\Views\login.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "password"', 'C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php', 38)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(83): view('login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:21:11 --> ErrorException: Undefined array key "username"
+[Method: GET, Route: login]
+in APPPATH\Views\login.php on line 33.
+ 1 APPPATH\Views\login.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php', 33)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\testPagination\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(83): view('login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-05-18 18:30:55 --> mysqli_sql_exception: Unknown column 'username' in 'where clause' in C:\xampp\htdocs\testPagination\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\testPagination\system\Database\MySQLi\Connection.php(308): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\testPagination\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\testPagination\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\testPagination\system\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\testPagination\app\Models\HomeModel.php(36): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\testPagination\app\Controllers\Home.php(85): App\Models\HomeModel->getUserCredentials('ganup9199@gmail...', '\xEAr\xB9\xF4\xAF\xC5d\xA7\x81\xEC\x95/\xE6!\xCB...')
+#6 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(933): App\Controllers\Home->login()
+#7 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\testPagination\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\testPagination\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\testPagination\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\testPagination\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-05-18 18:30:55 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'username' in 'where clause'
+[Method: GET, Route: login]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `users`
+WHERE `username` = :username:
+OR `email` = :email:
+AND `password` = :password:', [...], false)
+ 2 APPPATH\Models\HomeModel.php(36): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Home.php(85): App\Models\HomeModel->getUserCredentials('ganup9199@gmail.com', 'êr¹ô¯Åd§ì•/æ!Ë˜ÐSÉbûõ„IŽZÃÃÂ—sYÀœ˜¦+‡‚šóÊÛx »ÿCc18°ßÇi|' . "\0" . 'ƒ•ìÖWC½ÆžíÞq')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:30:55 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'username' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `users`
+WHERE `username` = \'ganup9199@gmail.com\'
+OR `email` = \'ganup9199@gmail.com\'
+AND `password` = \'êr¹ô¯Åd§ì•/æ!Ë˜ÐSÉbûõ„IŽZÃÃÂ—sYÀœ˜¦+‡‚šóÊÛx »ÿCc\\r18°ßÇi|\\0ƒ•ìÖWC½ÆžíÞq\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `users`
+WHERE `username` = \'ganup9199@gmail.com\'
+OR `email` = \'ganup9199@gmail.com\'
+AND `password` = \'êr¹ô¯Åd§ì•/æ!Ë˜ÐSÉbûõ„IŽZÃÃÂ—sYÀœ˜¦+‡‚šóÊÛx »ÿCc\\r18°ßÇi|\\0ƒ•ìÖWC½ÆžíÞq\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `users`
+WHERE `username` = :username:
+OR `email` = :email:
+AND `password` = :password:', [...], false)
+ 4 APPPATH\Models\HomeModel.php(36): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Home.php(85): App\Models\HomeModel->getUserCredentials('ganup9199@gmail.com', 'êr¹ô¯Åd§ì•/æ!Ë˜ÐSÉbûõ„IŽZÃÃÂ—sYÀœ˜¦+‡‚šóÊÛx »ÿCc18°ßÇi|' . "\0" . 'ƒ•ìÖWC½ÆžíÞq')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:30:55 --> [Caused by] mysqli_sql_exception: Unknown column 'username' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('SELECT *
+FROM `users`
+WHERE `username` = \'ganup9199@gmail.com\'
+OR `email` = \'ganup9199@gmail.com\'
+AND `password` = \'êr¹ô¯Åd§ì•/æ!Ë˜ÐSÉbûõ„IŽZÃÃÂ—sYÀœ˜¦+‡‚šóÊÛx »ÿCc\\r18°ßÇi|\\0ƒ•ìÖWC½ÆžíÞq\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `users`
+WHERE `username` = \'ganup9199@gmail.com\'
+OR `email` = \'ganup9199@gmail.com\'
+AND `password` = \'êr¹ô¯Åd§ì•/æ!Ë˜ÐSÉbûõ„IŽZÃÃÂ—sYÀœ˜¦+‡‚šóÊÛx »ÿCc\\r18°ßÇi|\\0ƒ•ìÖWC½ÆžíÞq\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `users`
+WHERE `username` = \'ganup9199@gmail.com\'
+OR `email` = \'ganup9199@gmail.com\'
+AND `password` = \'êr¹ô¯Åd§ì•/æ!Ë˜ÐSÉbûõ„IŽZÃÃÂ—sYÀœ˜¦+‡‚šóÊÛx »ÿCc\\r18°ßÇi|\\0ƒ•ìÖWC½ÆžíÞq\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `users`
+WHERE `username` = :username:
+OR `email` = :email:
+AND `password` = :password:', [...], false)
+ 5 APPPATH\Models\HomeModel.php(36): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Home.php(85): App\Models\HomeModel->getUserCredentials('ganup9199@gmail.com', 'êr¹ô¯Åd§ì•/æ!Ë˜ÐSÉbûõ„IŽZÃÃÂ—sYÀœ˜¦+‡‚šóÊÛx »ÿCc18°ßÇi|' . "\0" . 'ƒ•ìÖWC½ÆžíÞq')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:34:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "homePage.php"
+[Method: GET, Route: login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('homePage.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homePage', [], true)
+ 3 APPPATH\Controllers\Home.php(87): view('homePage', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:39:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "homePage.php"
+[Method: GET, Route: login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('homePage.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homePage', [], true)
+ 3 APPPATH\Controllers\Home.php(87): view('homePage', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-18 18:43:05 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "homePage.php"
+[Method: GET, Route: login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('homePage.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homePage', [], true)
+ 3 APPPATH\Controllers\Home.php(87): view('homePage', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
