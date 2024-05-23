@@ -13,7 +13,6 @@ class HomeController extends BaseController
     }
     public function registerUser(){
         // Commented code
-        // New comment
 
         $data = json_decode(file_get_contents('php://input'),true);
         $response ="";
